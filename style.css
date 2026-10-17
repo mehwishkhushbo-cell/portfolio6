@@ -17,9 +17,7 @@ padding: 1rem 2rem;
 }
 .menu-items{
     display: flex;
-    width: ;
     gap: 2rem;
- list-style: ;
     margin: auto;
     list-style: none;
 padding:2rem;
@@ -250,7 +248,7 @@ transform: translate(-50%,-50%) rotate(360deg);
 
 
 .paragraph{
-    width:50%
+    width:50%;
     padding: 4rem;
     font-size:1.2rem;
     text-align:justify;
@@ -258,4 +256,3 @@ transform: translate(-50%,-50%) rotate(360deg);
 img{
     border-radius: 15% 55% 62% 28% / 64% 33% 67% 36%;
 }
-
